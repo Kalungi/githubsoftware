@@ -1,0 +1,10 @@
+C:\Users\betty\source\repos\Calc\Calc\bin\Release\Calc.exe.config
+C:\Users\betty\source\repos\Calc\Calc\bin\Release\Calc.exe
+C:\Users\betty\source\repos\Calc\Calc\bin\Release\Calc.pdb
+C:\Users\betty\source\repos\Calc\Calc\obj\Release\Calc.csprojAssemblyReference.cache
+C:\Users\betty\source\repos\Calc\Calc\obj\Release\Calc.Form1.resources
+C:\Users\betty\source\repos\Calc\Calc\obj\Release\Calc.Properties.Resources.resources
+C:\Users\betty\source\repos\Calc\Calc\obj\Release\Calc.csproj.GenerateResource.cache
+C:\Users\betty\source\repos\Calc\Calc\obj\Release\Calc.csproj.CoreCompileInputs.cache
+C:\Users\betty\source\repos\Calc\Calc\obj\Release\Calc.exe
+C:\Users\betty\source\repos\Calc\Calc\obj\Release\Calc.pdb
